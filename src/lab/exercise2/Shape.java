@@ -5,5 +5,5 @@ package lab.exercise2;
  * @author jlombardo
  */
 public interface Shape {
-    public abstract void draw();
+    public abstract String draw();
 }
